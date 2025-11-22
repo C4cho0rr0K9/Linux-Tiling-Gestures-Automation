@@ -1,5 +1,5 @@
 =====================================================
-// C4CHO0RR0K9'S WORKFLOW INITIATED //
+ C4CHO0RR0K9'S WORKFLOW INITIATED 
 =====================================================
 [ USER: C4CHO0RR0K9 ]
 [ SYSTEM: Ubuntu 22.04 (X.Org) ]
