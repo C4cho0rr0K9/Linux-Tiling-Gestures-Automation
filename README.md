@@ -1,12 +1,3 @@
- C4CHO0RR0K9'S WORKFLOW INITIATED 
-=====================================================
-[ USER: C4CHO0RR0K9 ]
-[ SYSTEM: Ubuntu 22.04 (X.Org) ]
-[ MODULES: Tiling Engine | Gesture Control ]
------------------------------------------------------
-STATUS: PRODUCTIVITY ENGAGED
-=====================================================
-
 # Ubuntu-Xorg-Productivity-Boost
 
 This project documents the installation, configuration, and troubleshooting for creating an automated workflow environment on **Ubuntu 22.04 (GNOME on X.Org)**, implementing **Automatic Tiling** for four terminals (Or any window. I used terminals as an example, but you can use and open any app or web application.) and advanced **Custom Trackpad Gestures**.
