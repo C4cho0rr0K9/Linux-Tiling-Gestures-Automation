@@ -8,7 +8,8 @@ This project documents the installation, configuration, and troubleshooting for 
 ### 1.1 Critical Requirements
 
 1.  **Graphics Server:** You **must use X.Org** (not Wayland). Select "Ubuntu on Xorg" at the login screen.
-2.  **Display Resolution:** The Tiling script is calibrated for a **1920x1080** display.
+   <img width="1146" height="667" alt="Image" src="https://github.com/user-attachments/assets/e34be559-328c-49c2-be49-1ffd52c4eecf" />
+3.  **Display Resolution:** The Tiling script is calibrated for a **1920x1080** display.
 
 ### 1.2 Install Dependencies
 
