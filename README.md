@@ -89,6 +89,8 @@ libinput-gestures-setup stop
 libinput-gestures --device /dev/input/by-id/usb-VirtualBox_USB_Tablet-event-mouse
 ```
 
+https://github.com/user-attachments/assets/a8e51934-e969-4945-893a-3b4d990bd1e9
+
 ## 3. Configuration: Automatic Tiling Script
 
 ### 3.1 Crate Script File: "~scripts/start_apps.sh"
