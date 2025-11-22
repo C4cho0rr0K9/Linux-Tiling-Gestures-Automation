@@ -1,8 +1,11 @@
 =====================================================
-| USER: C4CHO0RR0R9                                 |
-| WORKFLOW: UBUNTU XORG OPTIMIZED                   |
-| STATUS: PRODUCTIVITY ENGAGED                      |
-| MODULES: Tiling Engine | Gesture Control          |
+// C4CHO0RR0K9'S WORKFLOW INITIATED //
+=====================================================
+[ USER: C4CHO0RR0K9 ]
+[ SYSTEM: Ubuntu 22.04 (X.Org) ]
+[ MODULES: Tiling Engine | Gesture Control ]
+-----------------------------------------------------
+STATUS: PRODUCTIVITY ENGAGED
 =====================================================
 
 # Ubuntu-Xorg-Productivity-Boost
