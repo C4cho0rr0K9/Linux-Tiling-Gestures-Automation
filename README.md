@@ -8,7 +8,7 @@ This project documents the installation, configuration, and troubleshooting for 
 ### 1.1 Critical Requirements
 
 1.  **Graphics Server:** You **must use X.Org** (not Wayland). Select "Ubuntu on Xorg" at the login screen.
-   <img width="1146" height="667" alt="Image" src="https://github.com/user-attachments/assets/e34be559-328c-49c2-be49-1ffd52c4eecf" />
+   <img width="1146" height="667" alt="Image" src="https://github.com/user-attachments/assets/3db4aa8b-4e7a-41e9-a1b3-b2f7259110b8" />
 3.  **Display Resolution:** The Tiling script is calibrated for a **1920x1080** display.
 
 ### 1.2 Install Dependencies
@@ -166,3 +166,5 @@ cp scripts/start_apps.sh
 #### 3.2.3 Keyboard Shortcut Setup: Go to setting > Keyboard > HeyboardShortcuts>Custom Shortcuts
 - Command (Recommended):  Use the Obsolute path
 (/home/your_username/start_apps.sh)
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/5dfea84d-c7f2-4280-9d23-772c627c1e25" />
